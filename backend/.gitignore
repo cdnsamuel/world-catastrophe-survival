@@ -1,0 +1,4 @@
+node_modules
+.env
+public/assets/images/items
+public/assets/images/profiles
